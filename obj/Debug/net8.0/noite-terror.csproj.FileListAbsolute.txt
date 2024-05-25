@@ -1,0 +1,15 @@
+C:\Users\user\Documents\noite-terror\bin\Debug\net8.0\noite-terror.exe
+C:\Users\user\Documents\noite-terror\bin\Debug\net8.0\noite-terror.deps.json
+C:\Users\user\Documents\noite-terror\bin\Debug\net8.0\noite-terror.runtimeconfig.json
+C:\Users\user\Documents\noite-terror\bin\Debug\net8.0\noite-terror.dll
+C:\Users\user\Documents\noite-terror\bin\Debug\net8.0\noite-terror.pdb
+C:\Users\user\Documents\noite-terror\obj\Debug\net8.0\noite-terror.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\noite-terror\obj\Debug\net8.0\noite-terror.AssemblyInfoInputs.cache
+C:\Users\user\Documents\noite-terror\obj\Debug\net8.0\noite-terror.AssemblyInfo.cs
+C:\Users\user\Documents\noite-terror\obj\Debug\net8.0\noite-terror.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\noite-terror\obj\Debug\net8.0\noite-terror.sourcelink.json
+C:\Users\user\Documents\noite-terror\obj\Debug\net8.0\noite-terror.dll
+C:\Users\user\Documents\noite-terror\obj\Debug\net8.0\refint\noite-terror.dll
+C:\Users\user\Documents\noite-terror\obj\Debug\net8.0\noite-terror.pdb
+C:\Users\user\Documents\noite-terror\obj\Debug\net8.0\noite-terror.genruntimeconfig.cache
+C:\Users\user\Documents\noite-terror\obj\Debug\net8.0\ref\noite-terror.dll
